@@ -1,0 +1,2 @@
+repo init -u https://github.com/nitroglycerine33/platform_manifest.git -b master
+repo sync

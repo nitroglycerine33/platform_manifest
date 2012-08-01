@@ -315,6 +315,6 @@
   <project path="vendor/samsung" name="vendor_samsung" remote="eclipse" revision="jellybean" />
   <project path="vendor/Eclipse" name="vendor_Eclipse" remote="eclipse" revision="jellybean" />
   <project path="packages/apps/FileManager" name="packages_apps_FileManager" remote="eclipse" revision="master" />
-  <project path="packages/apps/EclipseWallpapers" name="packages_apps_EclipseWallpapers" remote="jellybean" revision="master" />
+  <project path="packages/apps/EclipseWallpapers" name="packages_apps_EclipseWallpapers" remote="eclipse" revision="jellybean" />
 
 </manifest>

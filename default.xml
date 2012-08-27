@@ -316,6 +316,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
   
+  <project path="vendor/asus" name="vendor_asus" remote="eclipse" revision="jellybean" />
   <project path="vendor/samsung" name="vendor_samsung" remote="eclipse" revision="jellybean" />
   <project path="vendor/Eclipse" name="vendor_Eclipse" remote="eclipse" revision="jellybean" />
   <project path="packages/apps/FileManager" name="packages_apps_FileManager" remote="eclipse" revision="master" />

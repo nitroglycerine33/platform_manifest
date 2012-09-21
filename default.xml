@@ -43,7 +43,7 @@
   <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="eclipse" revision="jellybean" />
   <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="eclipse" revision="jellybean" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="eclipse" revision="jellybean" />
-  <project path="device/samsung/torospr" name="device/samsung/torospr" />
+  <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="eclipse" revision="jellybean" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="eclipse" revision="jellybean" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />

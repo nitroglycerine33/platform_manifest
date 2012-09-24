@@ -23,7 +23,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="platform/dalvik" />
+  <project path="dalvik" name="android_dalvik" remote="cm" revision="jellybean" />
   <project path="development" name="platform/development" />
   <project path="device/asus/grouper" name="device_asus_grouper" remote="eclipse" revision="jellybean" />
   <project path="device/common" name="device/common" />
@@ -227,7 +227,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="android_libcore" remote="cm" revision="jellybean" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -310,7 +310,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="platform/system/core" />
+  <project path="system/core" name="android_system_core" remote="cm" revision="jellybean" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />

@@ -3,7 +3,7 @@
 
   <remote  name="aosp"
   fetch="https://android.googlesource.com/" />
-  <default revision="refs/tags/android-4.1.1_r4"
+  <default revision="refs/tags/android-4.1.1_r6"
            remote="aosp"
            sync-j="4" />
 
@@ -310,7 +310,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="android_system_core" remote="cm" revision="jellybean" />
+  <project path="system/core" name="platform/system/core" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />

@@ -66,7 +66,7 @@
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
-  <project path="external/chromium" name="platform/external/chromium" />
+  <project path="external/chromium" name="android_external_chromium" remote="cm" revision="jellybean" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" />
   <project path="external/clang" name="platform/external/clang" />
@@ -185,7 +185,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/valgrind" name="platform/external/valgrind" />
-  <project path="external/webkit" name="platform/external/webkit" />
+  <project path="external/webkit" name="android_external_webkit" remote="cm" revision="jellybean" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
@@ -229,8 +229,8 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
-  <project path="libcore" name="platform/libcore" />
-  <project path="libnativehelper" name="platform/libnativehelper" />
+  <project path="libcore" name="android_libcore" remote="cm" revision="jellybean" /> />
+  <project path="libnativehelper" name="android_libnativehelper" remote="cm" revision="jellybean" /> />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />

@@ -233,7 +233,7 @@
   <project path="libnativehelper" name="android_libnativehelper" remote="cm" revision="jellybean" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="cm" revision="jellybean" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="eclipse" revision="jellybean" />
@@ -311,7 +311,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="jellybean" />
   <project path="system/core" name="android_system_core" remote="cm" revision="jellybean" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="jellybean" />
   <project path="system/media" name="platform/system/media" />

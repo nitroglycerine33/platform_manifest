@@ -77,7 +77,7 @@
   <project path="external/dnsmasq" name="platform/external/dnsmasq" />
   <project path="external/doclava" name="platform/external/doclava" />
   <project path="external/dropbear" name="platform/external/dropbear" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" />
+  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="cm" revision="jellybean" />
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
@@ -221,7 +221,7 @@
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="jellybean" />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="eclipse" revision="jellybean" />
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cm" revision="jellybean" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="jellybean" />
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="jellybean" />
@@ -315,10 +315,10 @@
   <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="jellybean" />
   <project path="system/core" name="android_system_core" remote="cm" revision="jellybean" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="jellybean" />
-  <project path="system/media" name="platform/system/media" />
-  <project path="system/netd" name="platform/system/netd" />
-  <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="platform/system/vold" />
+  <project path="system/media" name="android_system_media" remote="cm" revision="jellybean" />
+  <project path="system/netd" name="android_system_netd" remote="cm" revision="jellybean" />
+  <project path="system/security" name="android_system_security" remote="cm" revision="jellybean" />
+  <project path="system/vold" name="android_system_vold" remote="cm" revision="jellybean" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="jellybean" />

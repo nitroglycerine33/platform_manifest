@@ -37,7 +37,7 @@
   <project path="device/moto/wingray" name="device/moto/wingray" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cm" revision="jellybean" />
-  <project path="device/samsung/crespo" name="device/samsung/crespo" />
+  <project path="device/samsung/crespo" name="android_device_samsung_crespo" remote="cm" revision="jellybean" />
   <project path="device/samsung/crespo4g" name="device/samsung/crespo4g" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cm" revision="jellybean" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cm" revision="jellybean" />

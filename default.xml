@@ -42,6 +42,7 @@
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cm" revision="jellybean" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cm" revision="jellybean" />
   <project path="device/samsung/fascinatemtd" name="android_device_samsung_fascinatemtd" remote="cm" revision="jellybean" />
+  <project path="device/samsung/msm8660-common" name="android_device_samsung_msm8660-common" remote="cm" revision="jellybean" />
   <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cm" revision="jellybean" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="eclipse" revision="jellybean2" />

@@ -21,7 +21,7 @@
   <project path="bionic" name="android_bionic" remote="cm" revision="jellybean" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="eclipse" revision="jellybean" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="android_dalvik" remote="cm" revision="jellybean" />
   <project path="development" name="platform/development" />

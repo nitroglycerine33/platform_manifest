@@ -14,7 +14,7 @@
          fetch="git://github.com/CyanogenMod/"
         review="review.cyanogenmod.com" />
 
-  <project path="build" name="platform/build" >
+  <project path="build" name="android_build" revision="jb42" remote="eclipse">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />

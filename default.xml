@@ -8,6 +8,13 @@
            remote="aosp"
            sync-j="4" />
 
+  <remote name="eclipse"
+         fetch="git://github.com/nitroglycerine33/" />
+
+  <remote name="cm"
+         fetch="git://github.com/CyanogenMod/"
+        review="review.cyanogenmod.com" />
+
   <project path="build" name="platform/build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>

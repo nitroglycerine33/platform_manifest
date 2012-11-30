@@ -353,7 +353,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="eclipse" revision="mr1-staging" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="eclipse" revision="mr1-staging" />
   
-
+  <project path="vendor/asus" name="vendor_asus" remote="eclipse" revision="jb42" />
   <project path="vendor/samsung" name="vendor_samsung" remote="eclipse" revision="jb42" />
   <project path="vendor/Eclipse" name="vendor_Eclipse" remote="eclipse" revision="jb42" />
   <project path="packages/apps/FileManager" name="packages_apps_FileManager" remote="eclipse" revision="master" />

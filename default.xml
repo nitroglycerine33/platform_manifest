@@ -201,7 +201,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="external_yaffs2" revision="jb42" remote="eclipse" />
-  <project path="external/zlib" name="platform/external/zlib" />
+  <project path="external/zlib" name="external_zlib" revision="jb42" remote="eclipse" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="platform/frameworks/av" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="eclipse" revision="jb-mr1-release" />

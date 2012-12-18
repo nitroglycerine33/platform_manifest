@@ -364,6 +364,6 @@
   <project path="packages/apps/EclipseWallpapers" name="packages_apps_EclipseWallpapers" remote="eclipse" revision="jellybean" />
 
   <project path="kernel/asus/grouper" name="leanKernel-grouper" remote="leankernel" revision="lk-jb-mr1" />
-  <project path="kernel/asus/tuna" name="leanKernel-galaxy-nexus" remote="leankernel" revision="lk-jb-mr1" />
+  <project path="kernel/samsung/tuna" name="leanKernel-galaxy-nexus" remote="leankernel" revision="lk-jb-mr1" />
 
 </manifest>

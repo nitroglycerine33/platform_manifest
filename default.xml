@@ -360,4 +360,6 @@
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="cm" revision="jellybean" />
   <project path="packages/apps/EclipseWallpapers" name="packages_apps_EclipseWallpapers" remote="eclipse" revision="jellybean" />
 
+  <project path="kernel/asus/grouper" name="kernel_asus_grouper" remote="eclipse" revision="jb42" />
+
 </manifest>

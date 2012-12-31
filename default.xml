@@ -9,9 +9,6 @@
 
   <remote name="eclipse"
          fetch="git://github.com/nitroglycerine33/" />
-         
-  <remote name="leankernel"
-         fetch="git://github.com/imoseyon/" />
 
   <remote name="cm"
          fetch="git://github.com/CyanogenMod/"

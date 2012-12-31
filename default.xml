@@ -45,6 +45,7 @@
   <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="eclipse" revision="jb42" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="eclipse" revision="jb42" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
+  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="eclipse" revision="jb42" />
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="eclipse" revision="jb42" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="eclipse" revision="jb42" />

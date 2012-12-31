@@ -363,5 +363,6 @@
 
   <project path="kernel/asus/grouper" name="kernel_asus_grouper" remote="eclipse" revision="jb42" />
   <project path="kernel/samsung/tuna" name="kernel_samsung_tuna" remote="eclipse" revision="jb42" />
+  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
 
 </manifest>

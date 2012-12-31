@@ -39,6 +39,10 @@
   <project path="device/lge/mako" name="device/lge/mako" groups="device" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="eclipse" revision="jb42" />
+  <project path="device/samsung/d2spr" name="device_samsung_d2spr" remote="eclipse" revision="jb42" />
+  <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="eclipse" revision="jb42" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="eclipse" revision="jb42" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="eclipse" revision="jb42" />

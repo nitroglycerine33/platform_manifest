@@ -219,7 +219,7 @@
   <project path="frameworks/ex" name="frameworks_ex" remote="eclipse" revision="jb42" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="frameworks_native" revision="jb42" remote="eclipse" />
+  <project path="frameworks/native" name="android_frameworks_native" revision="cm-10.1" remote="cm" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />

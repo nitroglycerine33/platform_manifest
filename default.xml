@@ -209,7 +209,7 @@
   <project path="external/yaffs2" name="external_yaffs2" revision="jb42" remote="eclipse" />
   <project path="external/zlib" name="external_zlib" revision="jb42" remote="eclipse" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="frameworks_av" revision="jb42" remote="eclipse" />
+  <project path="frameworks/av" name="android_frameworks_av" revision="cm-10.1" remote="cm" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="eclipse" revision="jb-mr1-release" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />

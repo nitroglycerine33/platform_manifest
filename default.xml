@@ -346,8 +346,8 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="android_system_bluetooth" revision="cm-10.1" remote="cm" />
-  <project path="system/core" name="android_system_core" revision="jb42" remote="eclipse" />
-  <project path="system/extras" name="android_system_extras" revision="jb42" remote="eclipse" />
+  <project path="system/core" name="android_system_core" revision="cm-10.1" remote="cm" />
+  <project path="system/extras" name="android_system_extras" revision="cm-10.1" remote="cm" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />

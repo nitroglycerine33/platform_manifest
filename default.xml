@@ -227,7 +227,7 @@
   <project path="frameworks/opt/mailcommon" name="frameworks_opt_mailcommon" remote="eclipse" revision="jb42" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" revision="mr1-staging" remote="eclipse" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" revision="cm-10.1" remote="cm" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/rs" name="platform/frameworks/rs" />
   <project path="frameworks/support" name="platform/frameworks/support" />

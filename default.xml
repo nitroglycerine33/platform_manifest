@@ -229,7 +229,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" revision="cm-10.1" remote="cm" />
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" revision="cm-10.1" remote="cm" />
-  <project path="frameworks/rs" name="platform/frameworks/rs" />
+  <project path="frameworks/rs" name="android_frameworks_rs" revision="cm-10.1" remote="cm" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
